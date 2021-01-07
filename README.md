@@ -14,7 +14,7 @@ Virtual Screen Painter is an OpenCV-C++ project that uses mouse as a virtual pen
 ```bash
 sudo apt install libopencv-dev
 ```
-* [Build Essential](https://linuxize.com/post/how-to-install-gcc-on-ubuntu-20-04/)
+* [build-essential](https://linuxize.com/post/how-to-install-gcc-on-ubuntu-20-04/)
 ```bash
    sudo apt install build-essential
 ```   
