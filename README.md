@@ -7,19 +7,23 @@ Virtual Screen Painter is an OpenCV-C++ project that uses mouse as a virtual pen
 * Clear Screen
 
 # Prerequisites
-* [OpenCV '4.2.0'](https://linuxize.com/post/how-to-install-opencv-on-ubuntu-20-04/) 
-* [Ubuntu 20.04 Focal Fossa](https://releases.ubuntu.com/20.04/).
-* [Build Essential](https://linuxize.com/post/how-to-install-gcc-on-ubuntu-20-04/)
-   sudo apt install build-essential
-* [cmake](https://cmake.org/install/)
-   sudo apt install cmake
+* [Ubuntu 20.04 Focal Fossa](https://releases.ubuntu.com/20.04/)
+* [OpenCV 4.2.0](https://linuxize.com/post/how-to-install-opencv-on-ubuntu-20-04/) 
 
-# Installation
-
-Make sure you have installed OpenCV properly in your system. You can install default opencv in Ubuntu using following command
+   Make sure you have installed OpenCV properly in your system. You can install default opencv in Ubuntu using following command
 ```bash
 sudo apt install libopencv-dev
 ```
+* [Build Essential](https://linuxize.com/post/how-to-install-gcc-on-ubuntu-20-04/)
+```bash
+   sudo apt install build-essential
+```   
+* [cmake](https://cmake.org/install/)
+```bash
+   sudo apt install cmake
+```
+# How to Build
+
 After installing OpenCV, you can follow the step to build this project
 ```bash
 git clone https://github.com/aleenalentin/virtual_screen_painter.git
